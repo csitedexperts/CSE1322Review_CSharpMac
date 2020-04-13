@@ -1,0 +1,12 @@
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/bin/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.deps.json
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/bin/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.runtimeconfig.json
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/bin/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.runtimeconfig.dev.json
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/bin/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.dll
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/bin/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.pdb
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/obj/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.csprojAssemblyReference.cache
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/obj/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.csproj.CoreCompileInputs.cache
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/obj/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.AssemblyInfoInputs.cache
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/obj/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.AssemblyInfo.cs
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/obj/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.dll
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/obj/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.pdb
+/Users/mhossa12/workspace/CSE1322_ReviewCSharpMac/CSE1322_ReviewCSharpMac/obj/Debug/netcoreapp3.1/CSE1322_ReviewCSharpMac.genruntimeconfig.cache
