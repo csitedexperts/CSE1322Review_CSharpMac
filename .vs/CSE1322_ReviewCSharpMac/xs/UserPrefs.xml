@@ -1,12 +1,22 @@
 ﻿<Properties StartupConfiguration="{B96DC605-C35A-40AD-BDD4-FF3F8FB3D03C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CSE1322_ReviewCSharpMac/Program.cs">
     <Files>
-      <File FileName="CSE1322_ReviewCSharpMac/Program.cs" Line="1" Column="1" />
+      <File FileName="CSE1322_ReviewCSharpMac/Program.cs" Line="5" Column="5" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSE1322_ReviewCSharpMac" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CSE1322__ReviewCSharpMac FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSE1322__ReviewCSharpMac PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
